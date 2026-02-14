@@ -74,7 +74,8 @@ def mark_done(tasks):
         print("Please enter a valid number.")
 #####################
 tasks = load_tasks()
-add_task(tasks)        # لإضافة مهمة جديدة
-list_tasks(tasks)      # لعرض المهام
-mark_done(tasks)       # لتحديد مهمة مكتملة
-list_tasks(tasks)      # لإعادة عرض المهام بعد التعديل
+add_task(tasks)        # 
+list_tasks(tasks)      # 
+mark_done(tasks)       # 
+list_tasks(tasks)      #
+
