@@ -156,6 +156,6 @@ GitHub is used for:
 
 ## Author
 
-Salah Sekkal  
+Salah Sekkal "and" boumedienne bouti 
 PhD Student  
 University of Mohamed Kheider – Biskra
